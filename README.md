@@ -1,3 +1,5 @@
+>[!NOTE]
+> This tool is unmaintained as the changes to the code are horrific and partially vibe-coded. There's also a chance that you might bootloop yourself. Please just use Regular [Nugget](https://github.com/leminlimez/Nugget) for SparseRestore customization. Please.
 
 # Tender
 An On-Device SparseRestore customization toolbox for iOS 16.0 - iOS 18.1.1, and a fork of [Nugget Mobile](https://github.com/leminlimez/Nugget-Mobile).
